@@ -1,0 +1,6 @@
+[2025-04-06 11:52:56,194 ] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-04-06 11:52:56,210 ] 97 werkzeug - INFO -  * Debugger PIN: 107-182-300
+[2025-04-06 11:53:15,858 ] 15 root - INFO - Error occurred in python script: [D:\ML_Project_Pipline\app.py] at line number: [12] error message: [we are testing custme file]
+[2025-04-06 11:53:15,858 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 11:53:15] "GET / HTTP/1.1" 200 -
+[2025-04-06 11:53:16,546 ] 15 root - INFO - Error occurred in python script: [D:\ML_Project_Pipline\app.py] at line number: [12] error message: [we are testing custme file]
+[2025-04-06 11:53:16,547 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Apr/2025 11:53:16] "GET / HTTP/1.1" 200 -

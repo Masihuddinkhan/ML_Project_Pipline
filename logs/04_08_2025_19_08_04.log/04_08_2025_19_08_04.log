@@ -1,0 +1,5 @@
+[2025-04-08 19:08:17,221 ] 21 root - INFO - Data ingestion started
+[2025-04-08 19:08:17,221 ] 23 root - INFO - Data reading usnig pandas labrary from local sysytem started
+[2025-04-08 19:08:17,326 ] 26 root - INFO - Data reading completed successfully
+[2025-04-08 19:08:17,327 ] 31 root - INFO - Data splated into train and test started
+[2025-04-08 19:08:17,754 ] 43 root - INFO - Data ingestion completed successfully
